@@ -1,0 +1,22 @@
+{
+    "name": "Herald-College-VS-Theme",
+    "publisher": "L4CG4GROUP",
+    "displayName": "Herald College",
+    "description": "Green Theme Based On Herald College.",
+    "version": "1.0.3",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Herald College",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Herald College-color-theme.json"
+            }
+        ]
+    }
+}
